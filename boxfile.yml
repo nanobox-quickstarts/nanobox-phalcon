@@ -7,3 +7,8 @@ run.config:
       - phalcon
   extra_steps:
     - echo "alias phalcon=\'phalcon.php\'" >> /data/var/home/gonano/.bashrc
+
+web.main:
+  start: php-server
+  writable_dirs:
+    - cache
