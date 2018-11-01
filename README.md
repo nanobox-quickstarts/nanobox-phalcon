@@ -2,7 +2,7 @@
 
 # Phalcon from Scratch
 
-Run a Phalcon app locally, install nothing besides nanobox.
+Run a Phalcon app locally, install nothing besides Nanobox.
 
 <a href="https://nanobox.io/download"><img src="https://guides.nanobox.io/assets/quickstart-icons/download.png" /></a>
 
@@ -49,6 +49,6 @@ ls
 ```
 
 ## Now What?
-For more details about running Phalcon apps with nanobox visit [guides.nanobox.io/php/phalcon/](https://guides.nanobox.io/php/phalcon/)
+For more details about running Phalcon apps with Nanobox visit [guides.nanobox.io/php/phalcon/](https://guides.nanobox.io/php/phalcon/)
 
 <a href="https://nanobox.io"><img src="https://guides.nanobox.io/assets/quickstart-icons/footer.png" /></a>
